@@ -19,6 +19,9 @@ It predicts:
 
 It also converts predictions into financial impact and helps users test “what-if” scenarios using interactive inputs such as occupancy, temperature, lighting, and HVAC load.
 
+## Demo
+
+![Smart Building ESG Predictor Demo](https://raw.githubusercontent.com/zodiac9363/Smart-Building-Energy-ESG-Predictor/main/mlgif.gif)
 ---
 
 ## Features
